@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\asame\\source\\repos\\Monogame_VS2019_Git_Game0000\\Monogame_VS2019_Git_Game0000\\Monogame_VS2019_Git_Game0000.csproj": {}
+    "C:\\Users\\geert\\Documents\\Programmieren\\JoinedProjects\\Monogame_VS2019_Git_Game0000\\Monogame_VS2019_Git_Game0000\\Monogame_VS2019_Git_Game0000\\Monogame_VS2019_Git_Game0000.csproj": {}
   },
   "projects": {
-    "C:\\Users\\asame\\source\\repos\\Monogame_VS2019_Git_Game0000\\Monogame_VS2019_Git_Game0000\\Monogame_VS2019_Git_Game0000.csproj": {
+    "C:\\Users\\geert\\Documents\\Programmieren\\JoinedProjects\\Monogame_VS2019_Git_Game0000\\Monogame_VS2019_Git_Game0000\\Monogame_VS2019_Git_Game0000\\Monogame_VS2019_Git_Game0000.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asame\\source\\repos\\Monogame_VS2019_Git_Game0000\\Monogame_VS2019_Git_Game0000\\Monogame_VS2019_Git_Game0000.csproj",
+        "projectUniqueName": "C:\\Users\\geert\\Documents\\Programmieren\\JoinedProjects\\Monogame_VS2019_Git_Game0000\\Monogame_VS2019_Git_Game0000\\Monogame_VS2019_Git_Game0000\\Monogame_VS2019_Git_Game0000.csproj",
         "projectName": "Monogame_VS2019_Git_Game0000",
-        "projectPath": "C:\\Users\\asame\\source\\repos\\Monogame_VS2019_Git_Game0000\\Monogame_VS2019_Git_Game0000\\Monogame_VS2019_Git_Game0000.csproj",
-        "packagesPath": "C:\\Users\\asame\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asame\\source\\repos\\Monogame_VS2019_Git_Game0000\\Monogame_VS2019_Git_Game0000\\obj\\",
+        "projectPath": "C:\\Users\\geert\\Documents\\Programmieren\\JoinedProjects\\Monogame_VS2019_Git_Game0000\\Monogame_VS2019_Git_Game0000\\Monogame_VS2019_Git_Game0000\\Monogame_VS2019_Git_Game0000.csproj",
+        "packagesPath": "C:\\Users\\geert\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\geert\\Documents\\Programmieren\\JoinedProjects\\Monogame_VS2019_Git_Game0000\\Monogame_VS2019_Git_Game0000\\Monogame_VS2019_Git_Game0000\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\asame\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\geert\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],

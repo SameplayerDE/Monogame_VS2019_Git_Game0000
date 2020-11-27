@@ -9,6 +9,8 @@ namespace Monogame_VS2019_Git_Game0000
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
 
+        int patrick = 0;
+
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
