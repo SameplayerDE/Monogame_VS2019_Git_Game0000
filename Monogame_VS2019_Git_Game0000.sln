@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monogame_VS2019_Git_Game0000", "Monogame_VS2019_Git_Game0000\Monogame_VS2019_Git_Game0000.csproj", "{45BD4BE2-EAA9-41FF-A6C0-DE7A44DBACBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45BD4BE2-EAA9-41FF-A6C0-DE7A44DBACBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45BD4BE2-EAA9-41FF-A6C0-DE7A44DBACBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45BD4BE2-EAA9-41FF-A6C0-DE7A44DBACBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45BD4BE2-EAA9-41FF-A6C0-DE7A44DBACBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC87715E-25D8-4066-9400-FE276406399B}
+	EndGlobalSection
+EndGlobal
